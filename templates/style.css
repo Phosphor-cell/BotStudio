@@ -1,0 +1,12 @@
+.grid_layout{
+    display: inline-grid;
+    border: red;
+    color: lightcoral;
+    width: 100rem;
+    height: 100rem;
+    row-gap: 10px;
+    column-gap: 25px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
